@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data>
+        <menuitem id="openacademy_menu" name="Openacademy"/>
+        <menuitem id="openacademysub_menu" name="Openacademy" parent="openacademy_menu"/>
+    </data>
+</odoo>

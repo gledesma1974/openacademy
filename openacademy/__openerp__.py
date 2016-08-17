@@ -15,9 +15,10 @@
         "base",
     ],
     "data": [
-        "view/some_model_view.xml",
+        "views/openacademy.xml",
+        "views/openacademy_course.xml",
     ],
     "demo": [
-        "demo/res_partner_demo.xml",
+        "demo/openacademy_course.xml",
     ],
 }
